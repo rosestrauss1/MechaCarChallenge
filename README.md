@@ -1,10 +1,16 @@
 # MechaCarChallenge
 ## Linear Regression to Predict MPG
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Is the slope of the linear model considered to be zero? Why or why not?
+<img width="470" alt="Screen Shot 2022-02-13 at 8 05 26 AM" src="https://user-images.githubusercontent.com/92963227/153789002-fbdb8a58-6a20-46fb-a4c1-e4364422c59b.png">
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+ * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The vehicle length and the vehicle ground clearance provide non-random amounts of variance to the model.
+
+ * Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the linear model is is not zero. This is because the p-value is 5.35e-11 which is much smaller than the 0.05% significance level, indicating a rejection of the null hypothesis meaning that the slope is not zero.
+
+ * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+This linear model does predict the mpg effectively because the R^2 value is 0.7149, meaning the amount of predictions that will be determined by the model is 71%.
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
