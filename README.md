@@ -61,8 +61,27 @@ Write a short description of a statistical study that can quantify how the Mecha
 
 What metric or metrics are you going to test?
 
+ * Price
+
+ * Highway fuel efficiency (mpg)
+
+ * City fuel efficiency (mpg)
+
+ * Horse Power
+
+ * Maintenance cost
+
+ * Safety Rating
+
+ * Carbon Emmissions
+
 What is the null hypothesis or alternative hypothesis?
 
+Null Hypothesis (Ho): 
+
+Alternative Hypothesis (Ha): 
+
 What statistical test would you use to test the hypothesis? And why?
+
 
 What data is needed to run the statistical test?
