@@ -6,16 +6,16 @@ summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_cleara
 
 mecha_coil <- read.csv(file='./Suspension_Coil.csv',check.names=F,stringsAsFactors = F) 
 
-total_summary <- mecha_coil %>% summarize(Mean_PSI=mean(PSI),
-                                          Median_PSI=median(PSI),
-                                          Var_PSI=var(PSI),
-                                          Std_Dev_PSI=sd(PSI),
+total_summary <- mecha_coil %>% summarize(Mean=mean(PSI),
+                                          Median=median(PSI),
+                                          Var=var(PSI),
+                                          STD=sd(PSI),
                                           .groups = 'keep') 
 
-lot_summary <- mecha_coil  %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PSI=mean(PSI),
-                                                                         Median_PSI=median(PSI),
-                                                                         Var_PSI=var(PSI),
-                                                                         Std_Dev_PSI=sd(PSI),
+lot_summary <- mecha_coil  %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),
+                                                                         Median=median(PSI),
+                                                                         Var=var(PSI),
+                                                                         STD=sd(PSI),
                                                                          .groups = 'keep')
 t.test(mecha_coil$PSI,mu=1500)
 
