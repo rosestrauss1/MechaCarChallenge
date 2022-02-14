@@ -26,10 +26,24 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
  * Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-Using the above tables, it is clear that for the manufacturing data for all lots combined, the variance of the coils is 62.29 PSI. The variance requirement is 100 PSI, which means that the data for all the lots meets the design specification. For the individual lots, 
+Using the above tables, it is clear that for the manufacturing data for all lots combined, the variance of the coils is 62.29 PSI. The variance requirement is 100 PSI, which means that the data for all the lots meets the design specification. For the individual lots, lot 1 and lot 2 are within the designated variance, but lot 3 has a variance of 170 which is outside of the bounds of the design specification.
 
 ## T-Tests on Suspension Coils
-then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+For the t-test, 
+
+Lot 1:
+<img width="439" alt="Screen Shot 2022-02-13 at 8 14 55 AM" src="https://user-images.githubusercontent.com/92963227/153790185-c7d59da1-d2bb-4f17-9143-95b81605b7f1.png">
+
+<img width="434" alt="Screen Shot 2022-02-13 at 8 13 26 AM" src="https://user-images.githubusercontent.com/92963227/153790292-9aa8a119-46ad-4d02-9178-9d9deee648bd.png">
+
+
+Lot 2:
+<img width="419" alt="Screen Shot 2022-02-13 at 8 14 46 AM" src="https://user-images.githubusercontent.com/92963227/153790248-28b363c5-7a04-42f3-981b-18788b575f33.png">
+
+Lot 3:
+<img width="419" alt="Screen Shot 2022-02-13 at 8 14 38 AM" src="https://user-images.githubusercontent.com/92963227/153790321-925c0824-bb01-4b63-a1dc-ba6d29e8638b.png">
+
+
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
