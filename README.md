@@ -17,10 +17,9 @@ This linear model does predict the mpg effectively because the R^2 value is 0.71
 
 ## Summary Statistics on Suspension Coils
 
-<img width="408" alt="Screen Shot 2022-02-13 at 8 11 45 AM" src="https://user-images.githubusercontent.com/92963227/153789618-c7ae72fe-124f-414e-a113-54ed4364a671.png">
+<img width="321" alt="Screen Shot 2022-02-13 at 7 00 06 PM" src="https://user-images.githubusercontent.com/92963227/153793042-f741b3cc-c279-49f2-848d-643dca5e1119.png">
 
-<img width="556" alt="Screen Shot 2022-02-13 at 8 11 56 AM" src="https://user-images.githubusercontent.com/92963227/153789621-c544d2c5-c103-4a25-b5d0-e2c1d730b957.png">
-
+<img width="493" alt="Screen Shot 2022-02-13 at 7 00 35 PM" src="https://user-images.githubusercontent.com/92963227/153793053-58e18321-ba3b-4287-acd3-fa921e689c88.png">
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
 
