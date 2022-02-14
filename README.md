@@ -31,18 +31,19 @@ Using the above tables, it is clear that for the manufacturing data for all lots
 ## T-Tests on Suspension Coils
 For the t-test, 
 
-Lot 1:
-<img width="439" alt="Screen Shot 2022-02-13 at 8 14 55 AM" src="https://user-images.githubusercontent.com/92963227/153790185-c7d59da1-d2bb-4f17-9143-95b81605b7f1.png">
-
+All Lots:
 <img width="434" alt="Screen Shot 2022-02-13 at 8 13 26 AM" src="https://user-images.githubusercontent.com/92963227/153790292-9aa8a119-46ad-4d02-9178-9d9deee648bd.png">
+
+
+Lot 1:
+<img width="419" alt="Screen Shot 2022-02-13 at 8 14 38 AM" src="https://user-images.githubusercontent.com/92963227/153790321-925c0824-bb01-4b63-a1dc-ba6d29e8638b.png">
 
 
 Lot 2:
 <img width="419" alt="Screen Shot 2022-02-13 at 8 14 46 AM" src="https://user-images.githubusercontent.com/92963227/153790248-28b363c5-7a04-42f3-981b-18788b575f33.png">
 
 Lot 3:
-<img width="419" alt="Screen Shot 2022-02-13 at 8 14 38 AM" src="https://user-images.githubusercontent.com/92963227/153790321-925c0824-bb01-4b63-a1dc-ba6d29e8638b.png">
-
+<img width="439" alt="Screen Shot 2022-02-13 at 8 14 55 AM" src="https://user-images.githubusercontent.com/92963227/153790185-c7d59da1-d2bb-4f17-9143-95b81605b7f1.png">
 
 
 ## Study Design: MechaCar vs Competition
