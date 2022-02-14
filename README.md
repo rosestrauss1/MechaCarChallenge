@@ -1,4 +1,4 @@
-# MechaCarChallenge
+# MechaCar Analysis
 ## Linear Regression to Predict MPG
 
 <img width="470" alt="Screen Shot 2022-02-13 at 8 05 26 AM" src="https://user-images.githubusercontent.com/92963227/153789002-fbdb8a58-6a20-46fb-a4c1-e4364422c59b.png">
