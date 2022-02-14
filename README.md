@@ -60,15 +60,15 @@ Write a short description of a statistical study that can quantify how the Mecha
 
 What metric or metrics are you going to test?
 
-There are many factors that will be useful for a consumer to know when comparing MechaCar to it's competitors, such as price, highway and city fuel efficiency, horse power, maintenance cost, and safety rating. But, with climate change becoming an increasingly important issues, I want to compare the carbon emmissions in kg of carbon dioxide produced per mile fore Mecha Car and it's top 5 competitors. 
+There are many factors that will be useful for a consumer to know when comparing MechaCar to it's competitors, such as price, highway and city fuel efficiency, horse power, maintenance cost, and safety rating. But, with climate change becoming an increasingly important issues, I want to compare the carbon emissions in kg of carbon dioxide produced per mile fore Mecha Car and it's top 5 competitors. 
 
- * Null Hypothesis (Ho): MechaCar prototypes' average carbon emmissions per mile is similar to competitor's vehicles.
+ * Null Hypothesis (Ho): MechaCar prototypes' average carbon emissions per mile is similar to competitor's vehicles.
 
- * Alternative Hypothesis (Ha): MechaCar prototypes' average carbon emmissions per mile is statistically above or below that of competitor vehicles.
+ * Alternative Hypothesis (Ha): MechaCar prototypes' average carbon emissions per mile is statistically above or below that of competitor vehicles.
 
 What statistical test would you use to test the hypothesis? And why?
 
 The statistical test I would use to test this hypothesis would be a two sample t-test because it is a dichotomous data type since we are comparing two samples, the MechaCar and it's competitors. 
 
 What data is needed to run the statistical test?
-To run this test, data would need to be gathered for the carbon emmissions per mile for the MechaCar prototypes as well as for all of the top 5 competing vehicles.
+To run this test, data would need to be gathered for the carbon emissions per mile for the MechaCar prototypes as well as for all of the top 5 competing vehicles.
