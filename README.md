@@ -54,7 +54,7 @@ Lot 3:
 
 <img width="439" alt="Screen Shot 2022-02-13 at 8 14 55 AM" src="https://user-images.githubusercontent.com/92963227/153790185-c7d59da1-d2bb-4f17-9143-95b81605b7f1.png">
 
-With a p-value of .4, this t-test indicates that there is  enough evidence to reject the null hypothesis and accept the alternative with a signifigance level of 0.05. This means that there is a statistically signifigant difference between the sample and population mean.
+With a p-value of .04, this t-test indicates that there is  enough evidence to reject the null hypothesis and accept the alternative with a signifigance level of 0.05. This means that there is a statistically signifigant difference between the sample and population mean.
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
