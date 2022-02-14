@@ -32,19 +32,29 @@ Using the above tables, it is clear that for the manufacturing data for all lots
 For the t-test, 
 
 All Lots:
+
 <img width="434" alt="Screen Shot 2022-02-13 at 8 13 26 AM" src="https://user-images.githubusercontent.com/92963227/153790292-9aa8a119-46ad-4d02-9178-9d9deee648bd.png">
 
+With a p-value of 0.06, this t-test indicates that there is not enough evidence to reject the null hypothesis with a signifigance level of 0.05. This means that the three lots are similar to the population mean.
 
 Lot 1:
+
 <img width="419" alt="Screen Shot 2022-02-13 at 8 14 38 AM" src="https://user-images.githubusercontent.com/92963227/153790321-925c0824-bb01-4b63-a1dc-ba6d29e8638b.png">
 
+With a p-value of 1, this t-test indicates that there is not enough evidence to reject the null hypothesis with a signifigance level of 0.05. This means that there is no difference between the sample and population mean.
 
 Lot 2:
+
 <img width="419" alt="Screen Shot 2022-02-13 at 8 14 46 AM" src="https://user-images.githubusercontent.com/92963227/153790248-28b363c5-7a04-42f3-981b-18788b575f33.png">
 
+With a p-value of .61, this t-test indicates that there is not enough evidence to reject the null hypothesis with a signifigance level of 0.05. This means that there is not a large difference between the sample and population mean.
+
+
 Lot 3:
+
 <img width="439" alt="Screen Shot 2022-02-13 at 8 14 55 AM" src="https://user-images.githubusercontent.com/92963227/153790185-c7d59da1-d2bb-4f17-9143-95b81605b7f1.png">
 
+With a p-value of .4, this t-test indicates that there is  enough evidence to reject the null hypothesis and accept the alternative with a signifigance level of 0.05. This means that there is a statistically signifigant difference between the sample and population mean.
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
